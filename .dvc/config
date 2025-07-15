@@ -1,0 +1,6 @@
+[core]
+    remote = s3remote
+['remote "gdrive_remote"']
+    url = gdrive://1JogJ1znNL1sfaoINhryHoUS1dGFnmWNo
+['remote "s3remote"']
+    url = s3://mayank-housepricedata
