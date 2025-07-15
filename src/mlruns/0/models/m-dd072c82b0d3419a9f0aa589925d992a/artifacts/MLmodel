@@ -1,0 +1,22 @@
+artifact_path: file:///Users/mayankmehta/Projects-ML/housepriceprediction/src/mlruns/0/models/m-dd072c82b0d3419a9f0aa589925d992a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-dd072c82b0d3419a9f0aa589925d992a
+model_size_bytes: 50419252
+model_uuid: m-dd072c82b0d3419a9f0aa589925d992a
+prompts: null
+run_id: fa072401ccf6490fb02200089b7a4349
+utc_time_created: '2025-07-11 13:21:36.002717'

@@ -1,0 +1,10 @@
+artifact_location: file:///Users/mayankmehta/Projects-ML/housepriceprediction/src/mlruns/0/models/m-7f6b1d76f4924e0c8cd5521b17a46771/artifacts
+creation_timestamp: 1752237444569
+experiment_id: '0'
+last_updated_timestamp: 1752237446493
+model_id: m-7f6b1d76f4924e0c8cd5521b17a46771
+model_type: null
+name: pipeline_model
+source_run_id: 571dbd90bf8d41dc8d1fe96df4da4308
+status: 2
+status_message: null

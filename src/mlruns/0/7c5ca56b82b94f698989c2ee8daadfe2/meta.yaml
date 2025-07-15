@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayankmehta/Projects-ML/housepriceprediction/src/mlruns/0/7c5ca56b82b94f698989c2ee8daadfe2/artifacts
+end_time: 1752241582324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c5ca56b82b94f698989c2ee8daadfe2
+run_name: house_price_prediction_pipeline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752241567235
+status: 3
+tags: []
+user_id: mayankmehta

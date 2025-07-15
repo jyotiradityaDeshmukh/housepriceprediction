@@ -1,0 +1,10 @@
+artifact_location: file:///Users/mayankmehta/Projects-ML/housepriceprediction/src/mlruns/0/models/m-44381cb57c4041b8bfb5870f27918845/artifacts
+creation_timestamp: 1752242081839
+experiment_id: '0'
+last_updated_timestamp: 1752242083855
+model_id: m-44381cb57c4041b8bfb5870f27918845
+model_type: null
+name: model
+source_run_id: 08694693c8d3432c9f01393f5033108f
+status: 2
+status_message: null

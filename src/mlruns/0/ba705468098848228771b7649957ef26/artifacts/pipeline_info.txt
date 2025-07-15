@@ -1,0 +1,11 @@
+
+    Pipeline Steps:
+    1. Feature Engineering: FeatureEngineer
+    2. Target Encoding: TargetEncoderWrapper
+    3. Scaling: StandardScaler
+    4. Imputation: SimpleImputer
+    5. PCA: PCA
+    6. Model: RandomForestRegressor
+
+    Categorical Columns: ['MSZoning', 'Street', 'LotShape', 'LandContour', 'Utilities', 'LotConfig', 'LandSlope', 'Neighborhood', 'Condition1', 'Condition2', 'BldgType', 'HouseStyle', 'RoofStyle', 'RoofMatl', 'Exterior1st', 'Exterior2nd', 'MasVnrType', 'ExterQual', 'ExterCond', 'Foundation', 'BsmtQual', 'BsmtCond', 'BsmtExposure', 'BsmtFinType1', 'BsmtFinType2', 'Heating', 'HeatingQC', 'CentralAir', 'Electrical', 'KitchenQual', 'Functional', 'FireplaceQu', 'GarageType', 'GarageFinish', 'GarageQual', 'GarageCond', 'PavedDrive', 'SaleType', 'SaleCondition']
+    
